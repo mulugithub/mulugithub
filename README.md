@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning a full stack development course 🤣
 - 👯 I’m looking to collaborate with a web developer enthusiast, 🤗
-- 🥅 2023 Goals: Complete Full stack developer course.
+- 🥅 2024 Goals: Complete Full stack developer course.
 - ⚡ Fun fact: I love to visit historical places 🌎
 - 😻 Currently, I'm located in Ethiopia
 
